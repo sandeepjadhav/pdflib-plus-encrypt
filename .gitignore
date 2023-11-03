@@ -1,0 +1,13 @@
+node_modules/
+lib/
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+yarn-error.log
+isolate*.log
+.DS_Store
+out.pdf
+*.tgz
+
+.vscode/settings.json
